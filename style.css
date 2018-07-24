@@ -1,0 +1,25 @@
+body{
+    background-color: RGB(53,53,53);
+    text-align:center;
+    color: white;
+    font-family: 'Tangerine', cursive;
+
+}
+
+header{
+    font-size:72px;
+}
+
+h3{
+    font-family: 'Unica One', cursive;
+}
+
+img{
+    width:540px;
+}
+
+.watch_description{
+    backgroundcolor: #1a1818;
+    bordercolor:#FDEFA6;
+    border:solid; width:2px;
+}
